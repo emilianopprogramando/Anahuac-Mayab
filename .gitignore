@@ -1,0 +1,40 @@
+# =========================
+# Archivos compilados Java
+# =========================
+*.class
+
+# =========================
+# Carpetas de compilación
+# =========================
+bin/
+out/
+target/
+build/
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+*.iml
+
+# =========================
+# NetBeans
+# =========================
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
