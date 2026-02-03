@@ -14,6 +14,26 @@ Usuario::Usuario(string nombre, string apellidos, int edad) {
     this->apellidos =apellidos;
     this->edad = edad;
 }
+
+// Definir los setter y getter
+void Usuario::setNombre(string nombre) {
+    this->nombre = nombre;
+}
+string Usuario::getNombre() {
+    return this->nombre;
+}
+void Usuario::setApellidos(string apellidos) {
+    this->apellidos = apellidos;
+}
+string Usuario::getApellidos() {
+    return this->apellidos;
+}
+void Usuario::setEdad(int edad) {
+    this->edad = edad;
+}
+int Usuario::getEdad() {
+    return this->edad;
+}
     
 // Definir los métodos
 void Usuario::hacerReporte() {

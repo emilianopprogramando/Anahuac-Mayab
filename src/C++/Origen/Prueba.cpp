@@ -14,21 +14,21 @@ int main()
     Usuario alumno("Tom", "Cruise", 64);
 
     // Asignar valores a los atributos
-    // maestra.nombre = "Lizbeth";
-    // maestra.apellidos = "Hernandez Olan";
-    // maestra.edad = 42;
+    maestra.setNombre("Lizbeth");
+    maestra.setApellidos("Hernandez Olan");
+    maestra.setEdad(42);
     
     // Llamada (invocación) de los métodos
     maestra.iniciarSesion();
     maestra.hacerReporte();
     maestra.cerrarSesion();
 
-    cout << "" << endl;
+    cout << "DATOS: " << maestra.getNombre() << " " << maestra.getApellidos() << " " << maestra.getEdad() << endl;
 
     alumno.iniciarSesion();
     alumno.hacerReporte();
     alumno.cerrarSesion();
-    
+    cout << "DATOS: " << alumno.getNombre() << " " << alumno.getApellidos() << " " << alumno.getEdad() << endl;
 
     return 0;
 }

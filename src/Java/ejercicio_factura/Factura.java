@@ -2,10 +2,10 @@
 
 public class Factura {
 
-    public String numPieza;
-    public String descPieza;
-    public int cantidadPieza;
-    public double precioPieza;
+    String numPieza;
+    String descPieza;
+    int cantidadPieza;
+    double precioPieza;
 
     public double obtenerMontoFactura() {
 
