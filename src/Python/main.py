@@ -6,9 +6,9 @@ maestra = Usuario()
 alumno = Usuario("Tom", "Cruise", 64)
 
 # Asignar valores a los atributos
-# maestra.nombre = "Lizbeth"
-# maestra.apellidos = "Hernandez Olan"
-# maestra.edad = 42
+maestra.nombre = "Lizbeth"
+maestra.apellidos = "Hernandez Olan"
+maestra.edad = 42
 
 # Llamada (invocación) de métodos
 maestra.iniciarSesion()
