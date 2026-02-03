@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\C#\\C#.csproj": {}
+    "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\src\\C#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\C#\\C#.csproj": {
+    "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\src\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\src\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\src\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\penic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\C#\\obj\\",
+        "outputPath": "C:\\Users\\penic\\OneDrive\\Documentos\\POO-Anahuac\\src\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

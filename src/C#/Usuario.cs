@@ -3,9 +3,10 @@ using System;
 class Usuario
 {
     // Atributos
-    public string nombre = "";
-    public string apellidos = "";
-    public int edad;
+    private string nombre = "";
+    private string apellidos = "";
+    private int edad;
+    
 
     // Constructor por defecto
     public Usuario()
@@ -21,6 +22,25 @@ class Usuario
         this.nombre = nombre;
         this.apellidos = apellidos;
         this.edad = edad;
+    }
+
+    // Setter y getter
+    public String Nombre
+    {
+        get { return this.nombre; }
+        set { this.nombre = value; }
+    }
+
+    public String Apellidos
+    {
+        get { return this.apellidos; }
+        set { this.apellidos = value; }
+    }
+
+    public int Edad
+    {
+        get { return this.edad; }
+        set { this.edad = value; }
     }
 
     // Métodos

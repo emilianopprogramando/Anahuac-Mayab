@@ -9,9 +9,9 @@ class Prueba
         Usuario alumno = new Usuario("Tom", "Cruise", 64);
 
         // Asignar valores a los atributos
-        // maestra.nombre = "Liz";
-        // maestra.apellidos = "Hernandez Olan";
-        // maestra.edad = 42;
+        maestra.Nombre = "Liz";
+        maestra.Apellidos = "Hernandez Olan";
+        maestra.Edad = 42;
         
         // Llamada (invocación) de los métodos
         maestra.iniciarSesion();
