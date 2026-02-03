@@ -8,9 +8,9 @@ public class Test {
         Usuario alumno = new Usuario("Tom", "Cruise", 64);
 
         // Asignar valores a los atributos
-        // maestra.nombre = "Lizbeth";
-        // maestra.apellidos = "Hernandez Olan";
-        // maestra.edad = 42;
+        maestra.setNombre("Lizbeth");
+        maestra.setApellidos("Hernandez Olan");
+        maestra.setEdad(42);
 
         // Llamar a los métodos para probarlos
         maestra.iniciarSesion();

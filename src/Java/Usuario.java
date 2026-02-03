@@ -21,6 +21,31 @@ public class Usuario {
         this.edad = edad;
     }
 
+    // Declaración de los setter y getter
+    void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    String getNombre() {
+        return this.nombre;
+    }
+
+    void setApellidos(String apellidos) {
+        this.apellidos = apellidos;
+    }
+
+    String getApellidos() {
+        return this.apellidos;
+    }
+
+    void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    int getEdad() {
+        return this.edad;
+    }
+
     // Métodos
     public void iniciarSesion() {
         System.out.println("El usuario " + this.nombre + " esta iniciando sesion.");
