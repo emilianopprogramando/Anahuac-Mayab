@@ -1,40 +1,43 @@
-# =========================
-# Archivos compilados Java
-# =========================
+# Archivos compilados de Java
 *.class
+*.jar
+*.war
+*.ear
 
-# =========================
-# Carpetas de compilación
-# =========================
-bin/
-out/
-target/
-build/
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
-# =========================
-# IDEs
-# =========================
-.idea/
-.vscode/
-*.iml
+# Archivos temporales de C++
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
 
-# =========================
-# NetBeans
-# =========================
-nbproject/private/
-build/
-dist/
-nbbuild/
-nbdist/
-.nb-gradle/
+# Archivos temporales de C#
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
 
-# =========================
-# Sistema operativo
-# =========================
+# Archivos de IDE / entorno local (Antigravity y otros)
+*.idea/
+*.vscode/
+*.settings/
+*.project
+*.classpath
+*.metadata/
+
+# Archivos de sistema
 .DS_Store
 Thumbs.db
 
-# =========================
-# Logs
-# =========================
+# Logs y temporales
 *.log
+*.tmp
+*.swp

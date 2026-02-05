@@ -21,7 +21,7 @@ public class Empleado {
         this.salario = s;
     }
 
-    // Getters
+    // Getters y setters
     public String getNombre() {
         return this.nombre;
     }
