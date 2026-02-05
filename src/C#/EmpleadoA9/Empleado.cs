@@ -2,26 +2,26 @@ using System;
 
 public class Empleado
 {
-    private string Nombre;
+    private string nombre;
     private int anioContratacion;
     private double salario;
 
     public Empleado()
     {
-        this.Nombre = "NULL";
+        this.nombre = "NULL";
         this.anioContratacion = 0;
         this.salario = 0.0;
     }
 
     public Empleado(string n, int a, double s)
     {
-        this.Nombre = n;
+        this.nombre = n;
         this.anioContratacion = a;
         this.salario = s;
     }
 
     public toString()
     {
-        return this.Nombre + "" + this.anioContratacion + "" + this.salario;
+        return this.nombre + "" + this.anioContratacion + "" + this.salario;
     }
 }
