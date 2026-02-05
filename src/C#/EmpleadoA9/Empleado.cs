@@ -2,9 +2,9 @@ using System;
 
 public class Empleado
 {
-    public string Nombre;
-    public int anioContratacion;
-    public double salario;
+    private string Nombre;
+    private int anioContratacion;
+    private double salario;
 
     public Empleado()
     {
