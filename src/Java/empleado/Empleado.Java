@@ -6,10 +6,10 @@ public class Empleado {
     private String nombre;
     private int anioContratacion;
     private double salario;
-    
+
     // Constructor
     public Empleado() {
-        this.nombre = "";
+        this.nombre = "NULL";
         this.anioContratacion = 0;
         this.salario = 0.0;
     }
@@ -33,7 +33,7 @@ public class Empleado {
     public double getSalario() {
         return this.salario;
     }
-    // Setters
+
     public void setNombre(String n) {
         this.nombre = n;
     }
