@@ -3,9 +3,9 @@ package Java.empleado;
 public class Empleado {
 
     // Atributos
-    String nombre;
-    int anioContratacion;
-    double salario;
+    private String nombre;
+    private int anioContratacion;
+    private double salario;
     
     // Constructor
     public Empleado() {
@@ -22,11 +22,36 @@ public class Empleado {
     }
 
     // Getters
+    public String getNombre() {
+        return this.nombre;
+    }
 
+    public int getAnioContratacion() {
+        return this.anioContratacion;
+    }
+
+    public double getSalario() {
+        return this.salario;
+    }
     // Setters
+    public void setNombre(String n) {
+        this.nombre = n;
+    }
+
+    public void setAnioContratacion(int a) {
+        this.anioContratacion = a;
+    }
+
+    public void setSalario(double s) {
+        this.salario = s;
+    }
 
     // Métodos
-    public double toString() {
-        return 
+    public String toString() {
+        return this.nombre + " " + this.anioContratacion + " " + this.salario;
+    }
+
+    public double calcularSalario() {
+        return this.salario * 12;
     }
 }
