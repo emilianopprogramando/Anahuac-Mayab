@@ -20,8 +20,13 @@ public class Empleado
         this.salario = s;
     }
 
-    public string ToString()
+    public override string ToString()
     {
         return this.nombre + " " + this.anioContratacion + " " + this.salario;
+    }
+
+    public double calcularSalario()
+    {
+        return this.salario * 12;
     }
 }
