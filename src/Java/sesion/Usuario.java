@@ -1,4 +1,4 @@
-package Java;
+package Java.sesion;
 
 public class Usuario {
 
