@@ -20,8 +20,8 @@ public class Empleado
         this.salario = s;
     }
 
-    public toString()
+    public string ToString()
     {
-        return this.nombre + "" + this.anioContratacion + "" + this.salario;
+        return this.nombre + " " + this.anioContratacion + " " + this.salario;
     }
 }
