@@ -20,10 +20,8 @@ public class Empleado
         this.salario = s;
     }
 
-    public void imprimir()
+    public toString()
     {
-        Console.WriteLine("\nNombre: " + this.Nombre);
-        Console.WriteLine("Anio de Contratacion: " + this.anioContratacion);
-        Console.WriteLine("Salario: " + this.salario);
+        return this.Nombre + "" + this.anioContratacion + "" + this.salario;
     }
 }
