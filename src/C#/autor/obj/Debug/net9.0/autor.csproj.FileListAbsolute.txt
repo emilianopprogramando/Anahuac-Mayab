@@ -1,0 +1,15 @@
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.AssemblyInfoInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.AssemblyInfo.cs
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.csproj.CoreCompileInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.sourcelink.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\bin\Debug\net9.0\autor.exe
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\bin\Debug\net9.0\autor.deps.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\bin\Debug\net9.0\autor.runtimeconfig.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\bin\Debug\net9.0\autor.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\bin\Debug\net9.0\autor.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\refint\autor.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\autor.genruntimeconfig.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\autor\obj\Debug\net9.0\ref\autor.dll
