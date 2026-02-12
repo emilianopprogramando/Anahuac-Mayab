@@ -20,5 +20,5 @@ class Cuenta:
         return self.nombre
 
     def get_saldo(self):
-        return self.saldo
+        return round(self.saldo,2)
     
