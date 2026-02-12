@@ -9,16 +9,16 @@ class Cuenta:
             self.saldo = 0.0
 
     # Métodos
-    def deposito(self, montoDeposito=0.0):
-        if montoDeposito > 0.0:
-            self.saldo += montoDeposito
+    def montoDeposito(self, deposito=0.0):
+        if deposito > 0.0:
+            self.saldo += deposito
     
     def set_nombre(self, nombre):
         self.nombre = nombre
 
-    def get_nombre():
-        return self.__nombre
+    def get_nombre(self):
+        return self.nombre
 
-    def get_saldo():
-        return self.__saldo
+    def get_saldo(self):
+        return self.saldo
     
