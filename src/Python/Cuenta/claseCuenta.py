@@ -8,24 +8,17 @@ class Cuenta:
         else:
             self.saldo = 0.0
 
-    @property
-    def nombre(self): #get de __nombre
-        return self.__nombre
-
-    @nombre.setter
-    def nombre(self, nombre): #set de __nombre
-        self.__nombre = nombre
-
-    @property
-    def saldo(self): #get de __saldo
-        return self.__saldo
-
-    @saldo.setter
-    def saldo(self, saldo): #set de __saldo
-        self.__saldo = saldo
-
-    # Método
+    # Métodos
     def deposito(self, montoDeposito=0.0):
         if montoDeposito > 0.0:
             self.saldo += montoDeposito
+    
+    def set_nombre(self, nombre):
+        self.nombre = nombre
+
+    def get_nombre():
+        return self.__nombre
+
+    def get_saldo():
+        return self.__saldo
     
