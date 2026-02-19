@@ -15,3 +15,6 @@ def main():
 
     except ValueError:
         print("Entrada inválida. Debe ingresar un número.")
+
+if __name__ == "__main__":
+    main()
