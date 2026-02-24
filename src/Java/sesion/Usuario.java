@@ -47,17 +47,17 @@ public class Usuario {
     }
 
     // Métodos
-    public void iniciarSesion() {
-        System.out.println("El usuario " + this.nombre + " esta iniciando sesion.");
+    String iniciarSesion() {
+        return "El usuario " + this.nombre + " esta iniciando sesion.";
     }
 
-    public void cerrarSesion() {
-        System.out.println("El usuario " + this.nombre + " ha cerrado la sesion.");
+    String cerrarSesion() {
+        return "El usuario " + this.nombre + " ha cerrado la sesion.";
     }
 
-    public void hacerReporte() {
-        System.out.println("Reporte de usuario");
-        System.out.println("Nombre completo: " + this.nombre + " " + this.apellidos);
-        System.out.println("Edad: " + this.edad);
+    String hacerReporte() {
+        return "Reporte de usuario" +
+                "\nNombre completo: " + this.nombre + " " + this.apellidos +
+                "\nEdad: " + this.edad;
     }
 }
