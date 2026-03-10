@@ -10,7 +10,7 @@ public class Medico extends Persona { // Hereda de la clase Persona
 
     public Medico(String nombre, String apellido, String genero, int edad, String especialidad, int cedulaProfesional) {
         // Constructor con parametros
-        super(nombre, apellido, genero, edad);
+        super(nombre, apellido, genero, edad); // Invoca atributos de clase padre
         this.especialidad = especialidad;
         this.cedulaProfesional = cedulaProfesional;
     }
