@@ -1,0 +1,15 @@
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.AssemblyInfoInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.AssemblyInfo.cs
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.csproj.CoreCompileInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.sourcelink.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\bin\Debug\net9.0\Mamifero.exe
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\bin\Debug\net9.0\Mamifero.deps.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\bin\Debug\net9.0\Mamifero.runtimeconfig.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\bin\Debug\net9.0\Mamifero.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\bin\Debug\net9.0\Mamifero.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\refint\Mamifero.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\Mamifero.genruntimeconfig.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Mamifero\obj\Debug\net9.0\ref\Mamifero.dll
