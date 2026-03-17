@@ -1,0 +1,15 @@
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\bin\Debug\net9.0\Geometria.exe
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\bin\Debug\net9.0\Geometria.deps.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\bin\Debug\net9.0\Geometria.runtimeconfig.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\bin\Debug\net9.0\Geometria.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\bin\Debug\net9.0\Geometria.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.AssemblyInfo.cs
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.sourcelink.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\refint\Geometria.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\Geometria.genruntimeconfig.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Geometria\obj\Debug\net9.0\ref\Geometria.dll
