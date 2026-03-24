@@ -1,0 +1,15 @@
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.AssemblyInfoInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.AssemblyInfo.cs
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.csproj.CoreCompileInputs.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.sourcelink.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\bin\Debug\net9.0\Juego.exe
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\bin\Debug\net9.0\Juego.deps.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\bin\Debug\net9.0\Juego.runtimeconfig.json
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\bin\Debug\net9.0\Juego.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\bin\Debug\net9.0\Juego.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\refint\Juego.dll
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.pdb
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\Juego.genruntimeconfig.cache
+C:\Users\penic\OneDrive\Documentos\POO-Anahuac\src\C#\Parcial2\Juego\obj\Debug\net9.0\ref\Juego.dll
