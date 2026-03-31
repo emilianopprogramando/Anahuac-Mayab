@@ -1,6 +1,3 @@
-// Fig. 10.9: PruebaSistemaNomina.java
-// Programa de prueba para la jerarquía de Empleado.
-
 public class PruebaSistemaNomina 
 {
    public static void main( String args[] ) 
@@ -16,6 +13,9 @@ public class PruebaSistemaNomina
       EmpleadoBaseMasComision empleadoBaseMasComision = 
          new EmpleadoBaseMasComision( 
          "Bob", "Lewis", "444-44-4444", 5000, .04, 300 );
+      TrabajadorPiezas trabajadorPiezas = 
+         new TrabajadorPiezas( 
+         "Steve", "Jobs", "555-55-5555", 2.50, 200 );
 
       System.out.println( "Empleados procesados por separado:\n" );
       
@@ -26,21 +26,23 @@ public class PruebaSistemaNomina
       System.out.printf( "%s\n%s: $%,.2f\n\n",
          empleadoPorComision, "ingresos", empleadoPorComision.ingresos() );
       System.out.printf( "%s\n%s: $%,.2f\n\n", 
-         empleadoBaseMasComision, 
-         "ingresos", empleadoBaseMasComision.ingresos() );
+         empleadoBaseMasComision, "ingresos", empleadoBaseMasComision.ingresos() );
+      System.out.printf( "%s\n%s: $%,.2f\n\n", 
+         trabajadorPiezas, "ingresos", trabajadorPiezas.ingresos() );
 
-      // crea un arreglo Empleado de cuatro elementos
-      Empleado empleados[] = new Empleado[ 4 ]; 
+      // crea un arreglo Empleado de cinco elementos
+      Empleado empleados[] = new Empleado[ 5 ]; 
 
       // inicializa el arreglo con objetos Empleado
       empleados[ 0 ] = empleadoAsalariado;
       empleados[ 1 ] = empleadoPorHoras;
       empleados[ 2 ] = empleadoPorComision; 
       empleados[ 3 ] = empleadoBaseMasComision;
+      empleados[ 4 ] = trabajadorPiezas;
 
      System.out.println( "Empleados procesados en forma polimorfica:\n" );
       
-      // procesa en forma genérica a cada elemento en el arreglo de empleados
+      // procesa en forma genÃ©rica a cada elemento en el arreglo de empleados
       for ( Empleado empleadoActual : empleados ) 
       {
          System.out.println( empleadoActual ); // invoca a toString
@@ -48,8 +50,7 @@ public class PruebaSistemaNomina
          // determina si el elemento es un EmpleadoBaseMasComision
          if ( empleadoActual instanceof EmpleadoBaseMasComision ) 
          {
-            // conversión descendente de la referencia de Empleado
-            // a una referencia de EmpleadoBaseMasComision
+            // conversiÃ³n descendente de la referencia de Empleado
             EmpleadoBaseMasComision empleado = 
                ( EmpleadoBaseMasComision ) empleadoActual;
 
@@ -69,20 +70,4 @@ public class PruebaSistemaNomina
          System.out.printf( "El empleado %d es un %s\n", j, 
             empleados[ j ].getClass().getName() ); 
    } // fin de main
-} // fin de la clase PruebaSistemaNomina
-
-/**************************************************************************
- * (C) Copyright 1992-2007 por Deitel & Associates, Inc. y                *
- * Pearson Education, Inc. Todos los derechos reservados.                 *
- *                                                                        *
- * RENUNCIA: Los autores y el editor de este libro han realizado su mejor *
- * esfuerzo para preparar este libro. Esto incluye el desarrollo, la      *
- * investigación y prueba de las teorías y programas para determinar su   *
- * efectividad. Los autores y el editor no hacen ninguna garantía de      *
- * ningún tipo, expresa o implícita, en relación con estos programas o    *
- * con la documentación contenida en estos libros. Los autores y el       *
- * editor no serán responsables en ningún caso por los daños consecuentes *
- * en conexión con, o que surjan de, el suministro, desempeño o uso de    *
- * estos programas.                                                       *
- *************************************************************************/
-
+}
